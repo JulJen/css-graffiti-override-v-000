@@ -5,9 +5,7 @@
   display: none;
 }
 
-/*#wall + div id*/
-#wall .tag-2
-{
+#wall + div id {
   background: url(../images/tag-2.png) no-repeat;
   z-index: 6;
   display: none;
